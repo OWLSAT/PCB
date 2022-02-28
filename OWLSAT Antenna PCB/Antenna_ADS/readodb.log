@@ -1,0 +1,18 @@
+Wed Feb 23 01:14:40 2022
+Reading ODB file "C:/Users/james/Desktop/PCB/OWLSAT Antenna PCB/Project Outputs for OWLSAT Antenna PCB/odb".
+
+Warnings occurred during ODB file load:
+
+
+*** NOTE ABOUT SUBSTRATE ! *******************************************
+
+Substrate file 'Antenna.stack' and materials file 'materials.matdb'
+are created at C:/Users/james/Desktop/OWLSAT_Antenna/OWLSAT_Antenna_lib.
+
+Layers of type DOCUMENT are not added in layer stackup.
+Substrate information such as layer thickness and dielectric value has been set
+to default values. This can be edited in 
+Substrate Editor (Technology > Material Definitions...).
+**********************************************************************
+
+Import Complete
