@@ -29,5 +29,7 @@ fp-info-cache
 __Previews/
 History/
 * Logs*
-Project Outputs *
 *.DSNlck
+
+#HFSS Files
+*.aedtresults/
