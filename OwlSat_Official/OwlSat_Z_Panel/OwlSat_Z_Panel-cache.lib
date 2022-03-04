@@ -1,0 +1,64 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# OwlSat_Symbols_PicoBlade_2
+#
+DEF OwlSat_Symbols_PicoBlade_2 U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "OwlSat_Symbols_PicoBlade_2" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S 0 -150 100 -350 0 1 0 N
+X ~ 1 -100 -200 100 R 50 50 1 1 B
+X ~ 2 -100 -300 100 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# OwlSat_Symbols_PicoBlade_Connector
+#
+DEF OwlSat_Symbols_PicoBlade_Connector U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "OwlSat_Symbols_PicoBlade_Connector" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -250 -150 0 -450 0 1 0 N
+X ~ 1 100 -150 100 L 50 50 1 1 B
+X ~ 2 100 -250 100 L 50 50 1 1 B
+X ~ 3 100 -350 100 L 50 50 1 1 B
+X ~ 4 100 -450 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# OwlSat_Symbols_RBF_Pin
+#
+DEF OwlSat_Symbols_RBF_Pin U 0 40 Y Y 1 F N
+F0 "U" 0 100 50 H V C CNN
+F1 "OwlSat_Symbols_RBF_Pin" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -100 -100 100 -200 0 1 0 N
+X ~ 1 -50 -300 100 U 50 50 1 1 B
+X ~ 2 50 -300 100 U 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# OwlSat_Symbols_Spectrolab_XTE-SF_Solar_Cells
+#
+DEF OwlSat_Symbols_Spectrolab_XTE-SF_Solar_Cells U 0 40 Y Y 1 F N
+F0 "U" 0 100 50 H V C CNN
+F1 "OwlSat_Symbols_Spectrolab_XTE-SF_Solar_Cells" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -600 600 600 -50 0 1 0 N
+X Negative 1 -500 700 100 D 50 50 1 1 W
+X Positive 2 -100 700 100 D 50 50 1 1 w
+X Negative 3 100 700 100 D 50 50 1 1 W
+X Negative 4 500 700 100 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library
