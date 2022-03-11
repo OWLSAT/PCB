@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for OWLSAT Antenna PCB
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -132,303 +132,199 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\ODB\Antenna.REP
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\NC Drill\Antenna.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\Antenna.REP
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\Antenna.REP
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-Antenna.xlsx
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\BOM\Bill of Materials-Antenna.xlsx
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\NC Drill\Antenna.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.REP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\Antenna.REP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\Gerber\Antenna.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\NC Drill\Antenna.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_2\features
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\BOM\Bill of Materials-Antenna.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_3\features
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument30]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument37]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\dielectric_2\features
+[GeneratedDocument33]
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
 DItemRevisionGUID=
 
-[GeneratedDocument38]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\dielectric_3\features
+[GeneratedDocument34]
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument37]
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\top_designator\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument45]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\dielectric_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\dielectric_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\dielectric_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\drill_plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument61]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument62]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument63]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument64]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument66]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument67]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument69]
+[GeneratedDocument47]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument70]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument71]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
-DItemRevisionGUID=
-
-[GeneratedDocument72]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
-DItemRevisionGUID=
-
-[GeneratedDocument73]
+[GeneratedDocument48]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
 DItemRevisionGUID=
 
-[GeneratedDocument74]
+[GeneratedDocument49]
 DocumentPath=Project Outputs for OWLSAT Antenna PCB\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=Project Outputs for OWLSAT Antenna PCB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -442,7 +338,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for OWLSAT Antenna PCB
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

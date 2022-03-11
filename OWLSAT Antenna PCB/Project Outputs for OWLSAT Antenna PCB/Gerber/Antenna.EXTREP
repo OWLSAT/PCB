@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Antenna.GBR   3/1/2022  12:07:53 AM
+Gerber File Extension Report For: Antenna.GBR   3/10/2022  5:44:40 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -14,8 +14,8 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
 .GM12               Top Designator                          
-.GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
 .GD1                Drill Drawing                           
