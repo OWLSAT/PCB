@@ -1,0 +1,10 @@
+units mm
+
+//Layer_Name Color Elevation Thickness
+
+0 blue 0.035 0.32
+BottomLayer red 0 0.035
+MultiLayer grey 0 0.39
+PadHoleLayer green 0 0.39
+TopLayer red 0.355 0.035
+ViaHoleLayer yellow 0 0.39

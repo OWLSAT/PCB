@@ -1,0 +1,137 @@
+
+STEP {
+    COL=2
+    NAME=pcb
+}
+
+LAYER {
+    ROW=1
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    NAME=top_overlay
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=2
+    CONTEXT=BOARD
+    TYPE=SOLDER_PASTE
+    NAME=top_paste
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=3
+    CONTEXT=BOARD
+    TYPE=SOLDER_MASK
+    NAME=top_solder
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=4
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    NAME=top_layer
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=5
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    NAME=dielectric_2
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=6
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    NAME=dielectric_1
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=7
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    NAME=dielectric_3
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=8
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    NAME=bottom_layer
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=9
+    CONTEXT=BOARD
+    TYPE=SOLDER_MASK
+    NAME=bottom_solder
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=10
+    CONTEXT=BOARD
+    TYPE=SOLDER_PASTE
+    NAME=bottom_paste
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=11
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    NAME=bottom_overlay
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=12
+    CONTEXT=BOARD
+    TYPE=DRILL
+    NAME=drill_plated_bottom-top
+    POLARITY=POSITIVE
+    START_NAME=top_layer
+    END_NAME=bottom_layer
+    OLD_NAME=
+}

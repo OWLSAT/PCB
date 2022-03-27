@@ -1,0 +1,229 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 4 2.54 1.155 180 N U3 QBA-07+ ;0=1,1=0.0000
+PRP Copyright 'Copyright (C) 2022 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Part_Number 'QBA-07+'
+PRP Mfr_Name 'Mini Circuits'
+PRP RefDes 'RefDes'
+PRP Type 'DEV'
+TOP 0 2.4225 1.055 0 N 5 0 U3-1
+TOP 1 2.4225 1.105 0 N 11 9 U3-2
+TOP 2 2.4225 1.155 0 N 11 10 U3-3
+TOP 3 2.4225 1.205 0 N 11 11 U3-4
+TOP 4 2.4225 1.255 0 N 7 1 U3-5
+TOP 5 2.6589961 1.255 0 N 2 0 U3-6
+TOP 6 2.6575 1.205 0 N 11 12 U3-7
+TOP 7 2.6575 1.155 0 N 11 13 U3-8
+TOP 8 2.6575 1.105 0 N 11 14 U3-9
+TOP 9 2.6589961 1.055 0 N 1 0 U3-10
+TOP 10 2.54 1.155 0 N 11 15 U3-11
+#
+# CMP 1
+CMP 5 2.256089 2.0597578 180 N U2 QBA-07+ ;0=1,1=0.0000
+PRP Copyright 'Copyright (C) 2022 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Part_Number 'QBA-07+'
+PRP Mfr_Name 'Mini Circuits'
+PRP RefDes 'RefDes'
+PRP Type 'DEV'
+TOP 0 2.138589 1.9597578 0 N 10 1 U2-1
+TOP 1 2.138589 2.0097578 0 N 11 22 U2-2
+TOP 2 2.138589 2.0597578 0 N 11 21 U2-3
+TOP 3 2.138589 2.1097578 0 N 11 20 U2-4
+TOP 4 2.138589 2.1597578 0 N 8 1 U2-5
+TOP 5 2.373589 2.1597578 0 N 6 0 U2-6
+TOP 6 2.373589 2.1097578 0 N 11 19 U2-7
+TOP 7 2.373589 2.0597578 0 N 11 18 U2-8
+TOP 8 2.373589 2.0097578 0 N 11 17 U2-9
+TOP 9 2.373589 1.9597578 0 N 5 1 U2-10
+TOP 10 2.256089 2.0597578 0 N 11 16 U2-11
+#
+# CMP 2
+CMP 6 1.3525 2.88 0 N U1 QBA-07+ ;0=1,1=0.0000
+PRP Copyright 'Copyright (C) 2022 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Part_Number 'QBA-07+'
+PRP Mfr_Name 'Mini Circuits'
+PRP RefDes 'RefDes'
+PRP Type 'DEV'
+TOP 0 1.47 2.98 180 N 6 1 U1-1
+TOP 1 1.47 2.93 180 N 11 23 U1-2
+TOP 2 1.47 2.88 180 N 11 24 U1-3
+TOP 3 1.47 2.83 180 N 11 25 U1-4
+TOP 4 1.47 2.78 180 N 9 1 U1-5
+TOP 5 1.2364961 2.78 180 N 4 0 U1-6
+TOP 6 1.235 2.83 180 N 11 26 U1-7
+TOP 7 1.235 2.88 180 N 11 27 U1-8
+TOP 8 1.235 2.93 180 N 11 28 U1-9
+TOP 9 1.2364961 2.98 180 N 3 0 U1-10
+TOP 10 1.3525 2.88 180 N 11 29 U1-11
+#
+# CMP 3
+CMP 3 2.3 1.255 180 N R3 50 ;0=1,1=0.3362
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Category 'Chip SMD Resistors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452725.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452725.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/16743/pyu-rc0402-51-rohs-l-6-r-16743893.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/16743/pyu-rc0402-51-rohs-l-6-r-16743893.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/16863/pyu-rc0402-51-rohs-l-6-16863285.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/16863/pyu-rc0402-51-rohs-l-6-16863285.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452726.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452726.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452727.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452727.pdf?src-supplier=Digi-Key'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/28390/pyu-rc0402-51-rohs-l-6-28390744.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/28390/pyu-rc0402-51-rohs-l-6-28390744.pdf?src-supplier=Avnet+Europe'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin,Matte'
+PRP Depth '0.5mm'
+PRP Features 'Moisture Resistant'
+PRP Height '0.016inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.039inch'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number '311-430JRCT-ND'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '63mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '62.5mW'
+PRP Pricing_1 '1=0.10000, 10=0.01300, 100=0.00530, 1000=0.00236, 2500=0.00205, 5000=0.00169 (USD)'
+PRP Resistance '430R'
+PRP RoHS 'Yes'
+PRP Stock_1 '521'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '541-2655-1-ND'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+PRP Working_Voltage '50V'
+TOP 0 2.280315 1.255 0 N 11 8 R3-1
+TOP 1 2.3196851 1.255 0 N 7 0 R3-2
+#
+# CMP 4
+CMP 3 2.024063 2.1588793 180 N R2 50 ;0=1,1=0.3362
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Category 'Chip SMD Resistors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452725.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452725.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/16743/pyu-rc0402-51-rohs-l-6-r-16743893.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/16743/pyu-rc0402-51-rohs-l-6-r-16743893.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/16863/pyu-rc0402-51-rohs-l-6-16863285.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/16863/pyu-rc0402-51-rohs-l-6-16863285.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452726.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452726.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452727.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452727.pdf?src-supplier=Digi-Key'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/28390/pyu-rc0402-51-rohs-l-6-28390744.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/28390/pyu-rc0402-51-rohs-l-6-28390744.pdf?src-supplier=Avnet+Europe'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin,Matte'
+PRP Depth '0.5mm'
+PRP Features 'Moisture Resistant'
+PRP Height '0.016inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.039inch'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number '311-430JRCT-ND'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '63mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '62.5mW'
+PRP Pricing_1 '1=0.10000, 10=0.01300, 100=0.00530, 1000=0.00236, 2500=0.00205, 5000=0.00169 (USD)'
+PRP Resistance '430R'
+PRP RoHS 'Yes'
+PRP Stock_1 '521'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '541-2655-1-ND'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+PRP Working_Voltage '50V'
+TOP 0 2.004378 2.1588793 0 N 11 6 R2-1
+TOP 1 2.0437481 2.1588793 0 N 8 0 R2-2
+#
+# CMP 5
+CMP 3 1.5846847 2.78 0 N R1 50 ;0=1,1=0.3362
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Category 'Chip SMD Resistors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452725.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452725.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/16743/pyu-rc0402-51-rohs-l-6-r-16743893.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/16743/pyu-rc0402-51-rohs-l-6-r-16743893.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/16863/pyu-rc0402-51-rohs-l-6-16863285.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/16863/pyu-rc0402-51-rohs-l-6-16863285.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452726.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452726.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452727.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/2452/pyu-r-int-thick-7-2452727.pdf?src-supplier=Digi-Key'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/28390/pyu-rc0402-51-rohs-l-6-28390744.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/28390/pyu-rc0402-51-rohs-l-6-28390744.pdf?src-supplier=Avnet+Europe'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin,Matte'
+PRP Depth '0.5mm'
+PRP Features 'Moisture Resistant'
+PRP Height '0.016inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.039inch'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number '311-430JRCT-ND'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '63mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '62.5mW'
+PRP Pricing_1 '1=0.10000, 10=0.01300, 100=0.00530, 1000=0.00236, 2500=0.00205, 5000=0.00169 (USD)'
+PRP Resistance '430R'
+PRP RoHS 'Yes'
+PRP Stock_1 '521'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '541-2655-1-ND'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+PRP Working_Voltage '50V'
+TOP 0 1.6043697 2.78 180 N 11 7 R1-1
+TOP 1 1.5649996 2.78 180 N 9 0 R1-2
+#
+# CMP 6
+CMP 2 1.9685035 1.9630066 0 N J1 MMCX_0734151471 ;0=2,1=0.0000
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/7002/734151471-sd-7002529.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/7002/734151471-sd-7002529.pdf?src-supplier=Digi-Key'
+PRP Manufacturer_Part_Number '73415-1471'
+PRP Supplier_1 'Avnet'
+PRP Supplier_Part_Number_1 '0734151471'
+TOP 0 1.9685035 1.9630066 180 N 10 0 J1-1
+TOP 1 2.0185035 2.0130066 180 N 11 5 J1-2
+TOP 2 2.0185035 1.9130066 270 N 11 4 J1-3
+TOP 3 1.9185035 1.9130066 270 N 11 3 J1-4
+TOP 4 1.9185035 2.0130066 270 N 11 2 J1-5
+#

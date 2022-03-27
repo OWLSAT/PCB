@@ -1,0 +1,25 @@
+Momentum MomEngine_64 2022.10.406 (*) built: Oct  9 2021
+Copyright  1992 - 2021 Keysight Technologies
+Geometry processing started on: Fri Feb 25 00:40:58 2022
+Using the minimal snap distance of 0.004 um
+(4 layout resolution points) for layout healing.
+
+--- WARNING -------------------------------------------------------------------
+
+Layout healing changed the layout. The actual
+highest aggregate snap distance was 0.004 um.
+Further details have been written to the DRC
+report.
+
+-------------------------------------------------------------------------------
+
+--- WARNING -------------------------------------------------------------------
+
+Pin J1_1 is positioned on more than one edge.
+Move the pin away from any unintended edges.
+
+-------------------------------------------------------------------------------
+Layout simplification started
+.........|.........|.........|.........| 
+Layout simplification finished
+Geometry processing finished on: Fri Feb 25 00:41:17 2022

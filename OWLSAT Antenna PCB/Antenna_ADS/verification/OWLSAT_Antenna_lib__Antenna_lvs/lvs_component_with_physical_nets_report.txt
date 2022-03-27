@@ -1,0 +1,158 @@
+LVS Report
+Advanced Design System 2022 Update 1
+Copyright 2004 - 2022 Keysight Technologies 1989-2022
+Feb 25 2022 0:42:6
+
+Design
+  Schematic:                         OWLSAT_Antenna_lib:Antenna:schematic
+  Layout:                            OWLSAT_Antenna_lib:Antenna:layout
+
+LVS Analysis
+  LVS Analysis:                      Components with physical nets (single technology)
+  Elapsed time                       6.687 (seconds)
+
+Component Mapping
+  Component mapping                  Instance names (recommended)
+
+Settings
+  Check Parameters Mismatch:         On
+  Use instance name mapping:         On
+  Use parameter value mapping:       Off
+
+Summary:
+  Components not in schematic:       10
+  Components not in layout:          4
+  Nodal Mismatches:                  0
+  Nodal Mismatches:                  0*
+  Parameter Mismatches:              0*
+  Component Count Schematic:         4
+  Component Count Layout:            10
+  Wires/Flight-lines in layout:      0
+  Physical/Nodal mismatches:         0
+
+  * LVS Analysis stopped due to errors.
+
+Errors                                    14     
+  Components not in schematic             10     
+    Term P10                                     
+    Term P1                                      
+    Term P2                                      
+    Term P3                                      
+    Term P4                                      
+    Term P5                                      
+    Term P6                                      
+    Term P7                                      
+    Term P8                                      
+    Term P9                                      
+  Components not in layout                4      
+    OWLSAT_Antenna_lib:Antenna_emCosim X1        
+    ads_rflib:R R1                               
+    ads_rflib:R R2                               
+    ads_rflib:R R3                               
+  Nodal Mismatches                        0*
+  Parameter Mismatches                    0*
+
+                                       Schematic Layout
+Component Count                        4         10
+  Term                                 0         10
+  OWLSAT_Antenna_lib:Antenna_emCosim   1         0
+  ads_rflib:R                          3         0
+
+Component Mappings                     4         10
+  OWLSAT_Antenna_lib:Antenna_emCosim   X1        -
+  Term                                 -         P1
+  Term                                 -         P10
+  Term                                 -         P2
+  Term                                 -         P3
+  Term                                 -         P4
+  Term                                 -         P5
+  Term                                 -         P6
+  Term                                 -         P7
+  Term                                 -         P8
+  Term                                 -         P9
+  ads_rflib:R                          R1        -
+  ads_rflib:R                          R2        -
+  ads_rflib:R                          R3        -
+
+Net Mappings                           50        11
+  Net                                  -         0deg|P3|P9
+  Net                                  -         90deg|P4|P5
+  Net                                  -         Ant1|P8
+  Net                                  -         Ant2|P10
+  Net                                  -         Ant3|P6
+  Net                                  -         Ant4|P7
+  Net                                  -         GND
+  Net                                  -         NetR1_2
+  Net                                  -         NetR2_2
+  Net                                  -         NetR3_2
+  Net                                  -         P1|P2|Radio
+  Net                                  N__0      -
+  Net                                  N__10     -
+  Net                                  N__12     -
+  Net                                  N__13     -
+  Net                                  N__14     -
+  Net                                  N__15     -
+  Net                                  N__16     -
+  Net                                  N__17     -
+  Net                                  N__18     -
+  Net                                  N__19     -
+  Net                                  N__1      -
+  Net                                  N__20     -
+  Net                                  N__21     -
+  Net                                  N__23     -
+  Net                                  N__25     -
+  Net                                  N__26     -
+  Net                                  N__27     -
+  Net                                  N__29     -
+  Net                                  N__30     -
+  Net                                  N__31     -
+  Net                                  N__32     -
+  Net                                  N__34     -
+  Net                                  N__35     -
+  Net                                  N__36     -
+  Net                                  N__37     -
+  Net                                  N__38     -
+  Net                                  N__39     -
+  Net                                  N__3      -
+  Net                                  N__40     -
+  Net                                  N__41     -
+  Net                                  N__42     -
+  Net                                  N__43     -
+  Net                                  N__44     -
+  Net                                  N__45     -
+  Net                                  N__46     -
+  Net                                  N__49     -
+  Net                                  N__4      -
+  Net                                  N__50     -
+  Net                                  N__51     -
+  Net                                  N__52     -
+  Net                                  N__53     -
+  Net                                  N__54     -
+  Net                                  N__55     -
+  Net                                  N__57     -
+  Net                                  N__5      -
+  Net                                  N__60     -
+  Net                                  N__7      -
+  Net                                  N__8      -
+  Net                                  N__9      -
+  Net                                  gnd!      -
+
+Warnings                                                                  2     
+  (column 40 in evaluate) 
+  Operator or statement separator missing.             
+  Invalid component pin: Pin must be an area pin on a conductive layer.   8     
+    OWLSAT_Antenna_lib:Antenna_Pad_ANTENNA_PAD_1                          2     
+      P1                                                                        
+      P3                                                                        
+    OWLSAT_Antenna_lib:Antenna_Pad_ANTENNA_PAD                            2     
+      P2                                                                        
+      P4                                                                        
+    OWLSAT_Antenna_lib:MMCX_0734151471                                    1     
+      J1                                                                        
+    OWLSAT_Antenna_lib:QBA-07+_SM1L_MNC                                   1     
+      U3                                                                        
+    OWLSAT_Antenna_lib:QBA-07+_SM1L_MNC_1                                 1     
+      U2                                                                        
+    OWLSAT_Antenna_lib:QBA-07+_SM1L_MNC_1_2                               1     
+      U1                                                                        
+

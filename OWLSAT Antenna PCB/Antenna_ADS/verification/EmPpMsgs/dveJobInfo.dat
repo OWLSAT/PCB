@@ -1,0 +1,5 @@
+jobName=EmPpMsgs
+jobType=emprep
+designName=OWLSAT_Antenna_lib:Antenna_emCosim:layout
+ruleFilePath=
+addInfo="EM preprocessor messages displayed as DRC errors"

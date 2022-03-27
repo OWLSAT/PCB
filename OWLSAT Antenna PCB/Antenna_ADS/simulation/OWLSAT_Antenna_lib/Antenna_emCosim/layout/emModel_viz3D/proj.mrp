@@ -1,0 +1,20 @@
+Using the minimal snap distance of 0.004 um
+(4 layout resolution points) for layout healing.
+
+--- WARNING -------------------------------------------------------------------
+
+Layout healing changed the layout. The actual
+highest aggregate snap distance was 0.004 um.
+Further details have been written to the DRC
+report.
+
+-------------------------------------------------------------------------------
+
+
+--- WARNING -------------------------------------------------------------------
+
+Pin J1_1 is positioned on more than one edge.
+Move the pin away from any unintended edges.
+
+-------------------------------------------------------------------------------
+

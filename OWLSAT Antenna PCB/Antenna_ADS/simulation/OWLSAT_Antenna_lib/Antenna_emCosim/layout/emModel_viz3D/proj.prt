@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<port_setup version="1.3">
+  <calibration_group_list>
+    <calibration_group id="1">
+      <type>Auto</type>
+      <auto_split>true</auto_split>
+    </calibration_group>
+  </calibration_group_list>
+  <port_list>
+    <port id="1">
+      <name>P1</name>
+      <plus_pin>P1</plus_pin>
+      <minus_pin>P1:-</minus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="2">
+      <name>P2</name>
+      <plus_pin>P2</plus_pin>
+      <minus_pin>P2:-</minus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="3">
+      <name>P3</name>
+      <plus_pin>P3</plus_pin>
+      <minus_pin>P3:-</minus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="4">
+      <name>P4</name>
+      <plus_pin>P4</plus_pin>
+      <minus_pin>P4:-</minus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="5">
+      <name>P5</name>
+      <plus_pin>P5</plus_pin>
+      <minus_pin>P5:-</minus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="6">
+      <name>P6</name>
+      <plus_pin>P6</plus_pin>
+      <minus_pin>P6:-</minus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="7">
+      <name>P7</name>
+      <plus_pin>P7</plus_pin>
+      <minus_pin>P7:-</minus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="8">
+      <name>P8</name>
+      <plus_pin>P8</plus_pin>
+      <minus_pin>P8:-</minus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="9">
+      <name>P9</name>
+      <plus_pin>P9</plus_pin>
+      <minus_pin>P9:-</minus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="10">
+      <name>P10</name>
+      <plus_pin>P10</plus_pin>
+      <minus_pin>P10:-</minus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="11">
+      <name>J1_1</name>
+      <plus_pin>J1_1</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="12">
+      <name>J1_2</name>
+      <plus_pin>J1_2</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="13">
+      <name>J1_3</name>
+      <plus_pin>J1_3</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="14">
+      <name>J1_4</name>
+      <plus_pin>J1_4</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="15">
+      <name>J1_5</name>
+      <plus_pin>J1_5</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="16">
+      <name>P1_1</name>
+      <plus_pin>P1_1</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="17">
+      <name>P2_1</name>
+      <plus_pin>P2_1</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="18">
+      <name>P3_1</name>
+      <plus_pin>P3_1</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="19">
+      <name>P4_1</name>
+      <plus_pin>P4_1</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="20">
+      <name>U1_1</name>
+      <plus_pin>U1_1</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="21">
+      <name>U1_2</name>
+      <plus_pin>U1_2</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="22">
+      <name>U1_3</name>
+      <plus_pin>U1_3</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="23">
+      <name>U1_4</name>
+      <plus_pin>U1_4</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="24">
+      <name>U1_5</name>
+      <plus_pin>U1_5</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="25">
+      <name>U1_6</name>
+      <plus_pin>U1_6</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="26">
+      <name>U1_7</name>
+      <plus_pin>U1_7</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="27">
+      <name>U1_8</name>
+      <plus_pin>U1_8</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="28">
+      <name>U1_9</name>
+      <plus_pin>U1_9</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="29">
+      <name>U1_10</name>
+      <plus_pin>U1_10</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="30">
+      <name>U1_11</name>
+      <plus_pin>U1_11</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="31">
+      <name>U2_1</name>
+      <plus_pin>U2_1</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="32">
+      <name>U2_2</name>
+      <plus_pin>U2_2</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="33">
+      <name>U2_3</name>
+      <plus_pin>U2_3</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="34">
+      <name>U2_4</name>
+      <plus_pin>U2_4</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="35">
+      <name>U2_5</name>
+      <plus_pin>U2_5</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="36">
+      <name>U2_6</name>
+      <plus_pin>U2_6</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="37">
+      <name>U2_7</name>
+      <plus_pin>U2_7</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="38">
+      <name>U2_8</name>
+      <plus_pin>U2_8</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="39">
+      <name>U2_9</name>
+      <plus_pin>U2_9</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="40">
+      <name>U2_10</name>
+      <plus_pin>U2_10</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="41">
+      <name>U2_11</name>
+      <plus_pin>U2_11</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="42">
+      <name>U3_1</name>
+      <plus_pin>U3_1</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="43">
+      <name>U3_2</name>
+      <plus_pin>U3_2</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="44">
+      <name>U3_3</name>
+      <plus_pin>U3_3</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="45">
+      <name>U3_4</name>
+      <plus_pin>U3_4</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="46">
+      <name>U3_5</name>
+      <plus_pin>U3_5</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="47">
+      <name>U3_6</name>
+      <plus_pin>U3_6</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="48">
+      <name>U3_7</name>
+      <plus_pin>U3_7</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="49">
+      <name>U3_8</name>
+      <plus_pin>U3_8</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="50">
+      <name>U3_9</name>
+      <plus_pin>U3_9</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="51">
+      <name>U3_10</name>
+      <plus_pin>U3_10</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+    <port id="52">
+      <name>U3_11</name>
+      <plus_pin>U3_11</plus_pin>
+      <impedance>
+        <real>50</real>
+        <imag>0</imag>
+      </impedance>
+      <calibration_group_ref ref="1" />
+    </port>
+  </port_list>
+</port_setup>
