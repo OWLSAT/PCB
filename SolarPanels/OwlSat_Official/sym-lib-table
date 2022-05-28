@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name OwlSat_Symbols)(type Legacy)(uri ${KIPRJMOD}/OwlSat_Symbols.lib)(options "")(descr ""))
-)
