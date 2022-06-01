@@ -1,4 +1,4 @@
-
 (fp_lib_table
-  (lib (name "mainboard")(type KiCad)(uri "$(KIPRJMOD)/mainboard.pretty")(options "")(descr ""))
+  (lib (name "mainboard")(type "KiCad")(uri "$(KIPRJMOD)/mainboard.pretty")(options "")(descr ""))
+  (lib (name "OWLSAT Flight Board")(type "KiCad")(uri "C:/Users/james/Desktop/PCB/OWLSAT Flight Board.pretty")(options "")(descr ""))
 )
