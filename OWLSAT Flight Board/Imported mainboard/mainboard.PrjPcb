@@ -115,23 +115,6 @@ GenerateClassCluster=0
 DocumentUniqueId=COZDAZUE
 
 [Document5]
-DocumentPath=Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NAKVTEED
-
-[Document6]
 DocumentPath=Burn_Wires.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ENEYIJXE
 
-[Document7]
+[Document6]
 DocumentPath=RF_and_GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OFFMRAWB
 
-[Document8]
+[Document7]
 DocumentPath=mainboard-cache..LOG
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=mainboard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSCVNBAJ
 
-[Document10]
+[Document9]
 DocumentPath=mainboard.PcbDoc.LOG
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=mainboard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,7 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOUGCHJD
 
-[Document12]
+[Document11]
 DocumentPath=mainboard_1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -250,7 +233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XRUDOADA
 
-[Document13]
+[Document12]
 DocumentPath=ADCS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -267,7 +250,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDEDLVVZ
 
-[Document14]
+[Document13]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
