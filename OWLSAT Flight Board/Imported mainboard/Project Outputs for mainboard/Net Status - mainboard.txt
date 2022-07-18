@@ -1,0 +1,124 @@
+Net Status Report
+Filename     : C:\Users\jackson\Desktop\OwlSat\PCB\OWLSAT Flight Board\Imported mainboard\mainboard.PcbDoc
+Date         : 6/26/2022
+Time         : 1:03:53 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    5V, Signal Layers Only, 0mm
+    AIN5, Signal Layers Only, 6.7526mm
+    AREF, Signal Layers Only, 44.4022mm
+    BATTERY, Signal Layers Only, 28.3349mm
+    BCR Out, Signal Layers Only, 0mm
+    BURN_RELAY_A, Signal Layers Only, 50.1878mm
+    Batt. Raw, Signal Layers Only, 53.2591mm
+    C\H\R\G\, Signal Layers Only, 33.3124mm
+    DAC0, Signal Layers Only, 11.9576mm
+    ENAB_BURN1, Signal Layers Only, 50.6421mm
+    ENAB_BURN2, Signal Layers Only, 39.2868mm
+    ENAB_GPS, Signal Layers Only, 43.6081mm
+    ENAB_RF, Signal Layers Only, 5.3756mm
+    EPS Reset, Signal Layers Only, 0mm
+    EUV1, Signal Layers Only, 2.4236mm
+    EUV2, Signal Layers Only, 3.287mm
+    EUV3, Signal Layers Only, 0mm
+    EUV4, Signal Layers Only, 4.558mm
+    EUV5, Signal Layers Only, 3.8226mm
+    FLASH_CS, Signal Layers Only, 5.5983mm
+    FLASH_IO2, Signal Layers Only, 3.378mm
+    FLASH_IO3, Signal Layers Only, 13.8566mm
+    FLASH_MISO, Signal Layers Only, 6.6073mm
+    FLASH_MOSI, Signal Layers Only, 10.8591mm
+    FLASH_SCK, Signal Layers Only, 13.5828mm
+    GND, Signal Layers Only, 135.2551mm
+    GPS_PWR_IN, Signal Layers Only, 2.3113mm
+    L1_PROG, Signal Layers Only, 6.7788mm
+    LUP3V3, Signal Layers Only, 0mm
+    LUP5V, Signal Layers Only, 0mm
+    MISO, Signal Layers Only, 177.1661mm
+    MOSI, Signal Layers Only, 173.8866mm
+    NetC12_2, Signal Layers Only, 7.3359mm
+    NetC31_1, Signal Layers Only, 0mm
+    NetC32_2, Signal Layers Only, 1.9664mm
+    NetC34_2, Signal Layers Only, 3.3437mm
+    NetC35_1, Signal Layers Only, 0.5079mm
+    NetC36_2, Signal Layers Only, 5.2711mm
+    NetC38_2, Signal Layers Only, 1.9029mm
+    NetC39_1, Signal Layers Only, 1.9983mm
+    NetC40_2, Signal Layers Only, 0mm
+    NetC9_2, Signal Layers Only, 3.2236mm
+    NetD1_4, Signal Layers Only, 46.3778mm
+    NetD4_A, Signal Layers Only, 20.4435mm
+    NetL1_2, Signal Layers Only, 3.9503mm
+    NetQ1_1, Signal Layers Only, 2.237mm
+    NetQ1_3, Signal Layers Only, 4.1563mm
+    NetQ4_1, Signal Layers Only, 2.3118mm
+    NetQ4_3, Signal Layers Only, 11.1167mm
+    NetQ5_1, Signal Layers Only, 2.494mm
+    NetQ5_3, Signal Layers Only, 5.1356mm
+    NetR41_1, Signal Layers Only, 2.7862mm
+    NetR42_2, Signal Layers Only, 6.4554mm
+    NetR52_2, Signal Layers Only, 0mm
+    NetR58_2, Signal Layers Only, 0mm
+    NetR61_2, Signal Layers Only, 0mm
+    NetR64_2, Signal Layers Only, 0mm
+    NetR69_1, Signal Layers Only, 0mm
+    NetR6_2, Signal Layers Only, 18.8099mm
+    NetR70_1, Signal Layers Only, 0mm
+    NetR71_1, Signal Layers Only, 0mm
+    Out 1, Signal Layers Only, 0mm
+    Out 2, Signal Layers Only, 0mm
+    Out 3, Signal Layers Only, 0mm
+    Out 4, Signal Layers Only, 0mm
+    Out 5, Signal Layers Only, 0mm
+    Out 6, Signal Layers Only, 0mm
+    PA16, Signal Layers Only, 27.927mm
+    PA17, Signal Layers Only, 52.6605mm
+    PA19, Signal Layers Only, 33.4831mm
+    PA20, Signal Layers Only, 60.3938mm
+    PA22, Signal Layers Only, 67.0129mm
+    PA23, Signal Layers Only, 49.0045mm
+    RF1_CS, Signal Layers Only, 45.4466mm
+    RF1_IO0, Signal Layers Only, 69.8694mm
+    RF1_IO4, Signal Layers Only, 43.1162mm
+    RF1_RST, Signal Layers Only, 43.7567mm
+    RF2_BUSY, Signal Layers Only, 39.6053mm
+    RF2_CS, Signal Layers Only, 46.3855mm
+    RF2_IO1, Signal Layers Only, 35.6155mm
+    RF2_RST, Signal Layers Only, 52.4058mm
+    RS485A, Signal Layers Only, 0mm
+    RS485B, Signal Layers Only, 0mm
+    RX, Signal Layers Only, 26.3429mm
+    R\E\S\E\T\, Signal Layers Only, 39.8041mm
+    Reserved, Signal Layers Only, 68.2838mm
+    SCK, Signal Layers Only, 178.7299mm
+    SCL, Signal Layers Only, 67.0014mm
+    SDA, Signal Layers Only, 64.9352mm
+    SD_CS, Signal Layers Only, 34.5945mm
+    SWCLK, Signal Layers Only, 18.1417mm
+    SWDIO, Signal Layers Only, 9.9844mm
+    TX, Signal Layers Only, 30.4877mm
+    UART CTS, Signal Layers Only, 0mm
+    UART RTS, Signal Layers Only, 0mm
+    USB_D+, Signal Layers Only, 58.0739mm
+    USB_D-, Signal Layers Only, 56.1347mm
+    V RTC BUS, Signal Layers Only, 0mm
+    VBURN1, Signal Layers Only, 0mm
+    VBURN2, Signal Layers Only, 0.0898mm
+    VBURN_A_IN, Signal Layers Only, 129.2541mm
+    VBUS_IN, Signal Layers Only, 15.2461mm
+    VBUS_RESET, Signal Layers Only, 61.5288mm
+    VSOLAR, Signal Layers Only, 0mm
+    WDT_WDI, Signal Layers Only, 9.6601mm
+    X+, Signal Layers Only, 0mm
+    X-, Signal Layers Only, 0mm
+    XFault, Signal Layers Only, 0mm
+    XTAL1, Signal Layers Only, 5.4377mm
+    XTAL2, Signal Layers Only, 5.3913mm
+    Y+, Signal Layers Only, 0mm
+    Y-, Signal Layers Only, 0mm
+    YFault, Signal Layers Only, 0mm
+    Z+, Signal Layers Only, 0mm
+    Z-, Signal Layers Only, 0mm
+    ZFault, Signal Layers Only, 0mm
+count : 116
