@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [mainboard.PcbDoc]
+   Generated File[mainboard.RUL]
+   Generated File[mainboard.EXTREP]
+   Generated File[mainboard.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:46:32 PM On 9/24/2022
