@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : AD5206BRUZ50.LibPkg
+
+Section : C:\Users\JuanAntonio\Desktop\Python Project Repository\OwlSat Flight-Software\PCB\OWLSAT Flight Board\AD5206BRUZ50.lia
+    Section : PCB Library - AD5206BRUZ50.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 124
+            Warning - 1 : Skipping Token isVisible On Line 238
+            Warning - 1 : Skipping Token AD5206BRUZ50 On Line 347
+            Warning - 1 : Skipping Token attachedSymbol On Line 609
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - AD5206BRUZ50.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 231
+        EndSection
+
+        Section : Generating SCH Library - AD5206BRUZ50.SchLib
+        EndSection
+    EndSection
+EndSection
